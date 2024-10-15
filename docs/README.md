@@ -8,5 +8,4 @@ config:
     background: tint-plate
     backgroundImage: /2.jpg
     backgroundAttachment: 'fixed'
-    avatar: /b.jpg
 ---

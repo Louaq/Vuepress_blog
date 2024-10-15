@@ -12,17 +12,10 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     logo: true,
-	social: [
-      { icon: 'github', link: 'https://github.com/zhangsan' },
-      {
-        icon: { svg: '<svg>xxxxx</svg>', name: 'xxx' },
-        link: 'https://xxx.com'
-      },
-    ],
     profile: {
-      avatar: '/b.jpg',
       name: 'Louaq',
       description: '这是一个很棒的博客',
+	  avatar: '/b.jpg',
       circle: true,
       location: '武汉，中国',
       organization: '南湖边，双子塔',
@@ -98,16 +91,17 @@ export default defineUserConfig({
        * 评论 comments
        * @see https://theme-plume.vuejs.press/guide/features/comments/
        */
-      // comment: {
-      //   provider: '', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-      //   comment: true,
-      //   repo: '',
-      //   repoId: '',
-      //   categoryId: '',
-      //   mapping: 'pathname',
-      //   reactionsEnabled: true,
-      //   inputPosition: 'top',
-      // },
+       comment: {
+         provider: 'Giscus', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+         comment: true,
+         repo: 'Louaq/Vuepress_blog',
+         repoId: 'R_kgDONAm_Xw',
+		 category: 'Announcements',
+         categoryId: 'DIC_kwDONAm_X84CjYiJ',
+         mapping: 'pathname',
+         reactionsEnabled: true,
+         inputPosition: 'top',
+       },
     },
   }),
 })
