@@ -21,13 +21,21 @@
     "@vuepress/plugin-docsearch": "2.0.0-rc.55",
     "@vuepress/plugin-markdown-image": "2.0.0-rc.30",
     "@vuepress/plugin-markdown-math": "2.0.0-rc.30",
+    "@vuepress/plugin-notice": "2.0.0-rc.55",
     "@vuepress/plugin-reading-time": "2.0.0-rc.7",
-    "@vuepress/plugin-watermark": "2.0.0-rc.27",
+    "@vuepress/plugin-watermark": "2.0.0-rc.55",
+    "chart.js": "^4.4.5",
+    "echarts": "^5.5.1",
+    "flowchart.ts": "^3.0.1",
     "http-server": "^14.1.1",
+    "mermaid": "^11.3.0",
     "sass-embedded": "^1.79.5",
     "typescript": "^5.6.3",
     "vue": "^3.5.12",
     "vuepress": "2.0.0-rc.18",
     "vuepress-theme-plume": "1.0.0-rc.110"
+  },
+  "dependencies": {
+    "watermark-js-plus": "^1.5.7"
   }
 }

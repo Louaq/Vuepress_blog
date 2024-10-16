@@ -3,6 +3,10 @@ title: 变换器HAT
 cover: 'https://yangyang666.oss-cn-chengdu.aliyuncs.com/images/6.%E7%B4%AB%E7%81%B5%20%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0.jpeg'
 createTime: 2024/10/15 22:11:02
 permalink: /article/llrg5yeo/
+watermark:
+  content: 变换器HAT
+  globalAlpha: 0.2
+  rotate: 45
 ---
  # 变换器HAT
 
@@ -1124,4 +1128,4 @@ head:
 
 ![](https://yangyang666.oss-cn-chengdu.aliyuncs.com/typoraImages/ed03352b331d4ab183628ba318d8f8b3.png)
 
-​​
+​

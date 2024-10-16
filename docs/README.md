@@ -2,10 +2,10 @@
 pageLayout: home
 externalLinkIcon: false
 config:
-  -
-    type: profile
+  - type: profile
     full: true
     background: tint-plate
     backgroundImage: /2.jpg
-    backgroundAttachment: 'fixed'
+    backgroundAttachment: 'local'
+  - type: blog
 ---
