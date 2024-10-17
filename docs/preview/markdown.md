@@ -3,12 +3,7 @@ title: Markdown
 tags:
   - markdown
 createTime: 2024/10/15 20:47:37
-cover: 'https://yangyang666.oss-cn-chengdu.aliyuncs.com/images/8.%E3%80%90%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E3%80%91%E7%B4%AB%E7%81%B5%20%EF%BC%88%E8%AF%95%E5%81%9A%EF%BC%89.jpeg'
 permalink: /article/a9jn9iq6/
-watermark:
-  content: github
-  globalAlpha: 0.2
-  rotate: 45
 
 ---
 

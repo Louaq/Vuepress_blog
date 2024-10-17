@@ -1,7 +1,8 @@
 ---
-title: article_10
-createTime: 2024/06/08 15:12:49
+title: RCS-OSA
+createTime: 2024/06/12 15:12:49
 permalink: /article/3pv1asqx/
+excerpt: '这个模块的主要功能是通过减少特征图的通道数量，同时关注空间维度上的重要特征，来提高模型的处理效率和检测精度'
 ---
  # RCS-OSA
 
@@ -434,4 +435,4 @@ head:
 
 ![](https://yangyang666.oss-cn-chengdu.aliyuncs.com/typoraImages/45152fe3035048a99b4afd4a04279586.png)
 
-​​
+​

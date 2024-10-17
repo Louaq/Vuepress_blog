@@ -4,6 +4,7 @@ tags:
   - BiFormer
 createTime: 2024/06/08 15:12:49
 permalink: /article/8djf7t1b/
+excerpt: 'BiFormer是一种结合了Bi-level Routing Attention的视觉Transformer模型，BiFormer模型的核心思想是引入了双层路由注意力机制。'
 ---
  # BiFormer
 

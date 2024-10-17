@@ -1,7 +1,8 @@
 ---
-title: article_9
+title: ACmix自注意力机制
 createTime: 2024/06/08 15:12:49
 permalink: /article/uirz1e4c/
+excerpt: '它的核心思想是，传统卷积操作和自注意力模块的大部分计算都可以通过1x1的卷积来实现。'
 ---
 # ACmix自注意力机制 
 

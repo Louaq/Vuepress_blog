@@ -1,7 +1,8 @@
 ---
-title: article_3
+title: 多尺度空洞注意力
 createTime: 2024/06/08 15:12:49
 permalink: /article/ln4qficp/
+excerpt: '本文给大家带来的改进机制是**MSDA（多尺度空洞注意力）发表于今年的中科院一区(算是国内计算机领域的最高期刊了)**，其全称是"DilateFormer: Multi-Scale Dilated Transformer for Visual Recognition"。'
 ---
 # 多尺度空洞注意力 （:100:）
 
@@ -692,4 +693,4 @@ head:
 
 ![](https://yangyang666.oss-cn-chengdu.aliyuncs.com/typoraImages/abc37d81e6d04e5b8c93957779f9df53.png)​
 
-​​
+​

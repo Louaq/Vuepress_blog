@@ -36,10 +36,17 @@ export default defineUserConfig({
 	  },
 	  postCover: {
         layout: 'left',
-        ratio: '16:9',
+        ratio: '4:3',
         width: 300,
         compact: true
       }
+	},
+	footer: {
+	   message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
+	   copyright: 'Copyright © 2024-present Louaq',
+	   
+	
+	
 	},
 
     // 添加您的部署域名
@@ -96,17 +103,6 @@ export default defineUserConfig({
       },
 	  markdownMath: {
         type: 'katex',
-      },
-	  watermark: {
-        // enabled: false,  // boolean 类型控制是否全局启用
-        enabled: page => page.path.includes('/article/'), // function 类型 过滤哪些页面启用水印
-        delay: 500, // 添加水印的延时。以毫秒为单位。
-
-        /**
-         * 是否全屏水印，默认为 `true`，
-         * 设置为 `false` 时，水印仅在 内容区域中显示。
-         */
-        fullPage: true,
       },
 	  noticePlugin: {
          config: [

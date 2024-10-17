@@ -1,7 +1,8 @@
 ---
-title: article_2
+title: Triplet Attention
 createTime: 2024/06/08 15:12:49
 permalink: /article/ebule7cy/
+excerpt: '这个机制，它通过三个不同的视角来分析输入的数据，就好比三个人从不同的角度来观察同一幅画，然后共同决定哪些部分最值得注意'
 ---
  # Triplet Attention
 

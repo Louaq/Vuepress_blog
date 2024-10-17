@@ -7,5 +7,4 @@ config:
     background: tint-plate
     backgroundImage: /2.jpg
     backgroundAttachment: 'local'
-  - type: blog
 ---
