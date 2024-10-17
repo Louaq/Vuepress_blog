@@ -313,3 +313,5 @@ span {
     也可以由多个段落组成
 
 [^second]: 脚注文字。
+
+​     <RepoCard repo="pengzhanbo/vuepress-theme-plume" />

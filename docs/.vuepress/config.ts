@@ -8,12 +8,14 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'Louaq',
   description: '这是一个很棒的博客',
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
   bundler: viteBundler(),
 
   theme: plumeTheme({
     logo: true,
 	notes: false,
+	
 	sidebar: {
 	  '/stack/': [
         { text: 'Roboflow', link: '/notes/stack/Roboflow.md' },
