@@ -20,7 +20,7 @@ config:
           text: Github
           link: https://github.com/Louaq
           theme: alt
-  - type: article
+  - type: blog
 
 ---
 
