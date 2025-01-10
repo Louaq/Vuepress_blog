@@ -4,18 +4,25 @@ import { plumeTheme } from 'vuepress-theme-plume'
 import { watermarkPlugin } from '@vuepress/plugin-watermark'
 import { noticePlugin } from '@vuepress/plugin-notice'
 export default defineUserConfig({
-  base: '/Vuepress_blog/',
+  base: '/Vuepress_blog',
   lang: 'zh-CN',
   title: 'Louaq',
   description: '这是一个很棒的博客',
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/Vuepress_blog/favicon.ico' }]],
 
   bundler: viteBundler(),
 
   theme: plumeTheme({
     logo: true,
 	notes: false,
+	changelog: true,
+	contributors: true,
 	
+	bulletin: {
+      layout: 'top-right',
+      title: '公告板标题',
+      content: '公告板内容',
+    },
 	sidebar: {
 	  '/stack/': [
         { text: 'Roboflow', link: '/notes/stack/Roboflow.md' },
