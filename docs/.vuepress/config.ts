@@ -15,9 +15,14 @@ export default defineUserConfig({
   theme: plumeTheme({
     logo: true,
 	notes: false,
-	changelog: true,
 	contributors: true,
-	
+  changelog: {
+    maxCount: 10,
+    repoUrl: 'https://github.com/Louaq/Vuepress_blog',
+    commitUrlPattern: ':repo/commit/:hash',
+    issueUrlPattern: ':repo/issues/:issue',
+    tagUrlPattern: ':repo/releases/tag/:tag'
+  },
 	bulletin: {
       layout: 'top-right',
       title: '公告板标题',
