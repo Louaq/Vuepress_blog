@@ -26,9 +26,9 @@ export default defineThemeConfig({
   notes,
   social: [
     { icon: 'github', link: 'https://github.com/Louaq' },
-	{ icon: 'zhihu', link: '/' },
-	{ icon: 'weibo', link: '/' },
-	{ icon: 'bilibili', link: '/' },
+	  { icon: 'zhihu', link: '/' },
+	  { icon: 'weibo', link: '/' },
+	  { icon: 'bilibili', link: '/' },
   ],
 
 })

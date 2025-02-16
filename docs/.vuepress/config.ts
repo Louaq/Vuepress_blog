@@ -23,11 +23,6 @@ export default defineUserConfig({
     issueUrlPattern: ':repo/issues/:issue',
     tagUrlPattern: ':repo/releases/tag/:tag'
   },
-	bulletin: {
-      layout: 'top-right',
-      title: '公告板标题',
-      content: '公告板内容',
-    },
 	sidebar: {
 	  '/stack/': [
         { text: 'Roboflow', link: '/notes/stack/Roboflow.md' },
@@ -40,7 +35,7 @@ export default defineUserConfig({
 	  avatar: '/b.jpg',
       circle: true,
       location: '武汉，中国',
-      organization: '南湖边，双子塔',
+      organization: 'SCMU，双子塔',
       layout: 'right',
     },
 	blog: {
@@ -120,7 +115,7 @@ export default defineUserConfig({
         type: 'katex',
       },
 	  noticePlugin: {
-         config: [
+      config: [
          {
           path: '/',
           title: '重要通知',
@@ -137,7 +132,7 @@ export default defineUserConfig({
         },
   
       ],
-     },
+    },
 
       /**
        * 评论 comments

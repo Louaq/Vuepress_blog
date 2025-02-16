@@ -10,7 +10,7 @@ list:
   -
     name: Louaq
     link: https://github.com/Louaq
-    avatar: https://cdn.jsdelivr.net/gh/Louaq/picx-images-hosting@master/20241007/84e3974d00c94d91aeaca62e8d5ebfd3.3godqr9nmq.webp
+    avatar: https://vip.123pan.cn/1816472581/yk6baz03t0n000d6xujp0242m6w77g4nDIYPAqF0DqJ1DGxwDIiw.png
     desc: 即使慢，驰而不息，纵会落后，纵会失败，但必须能够到达他所向的目标。
 permalink: /lc9hir4d/
 ---
