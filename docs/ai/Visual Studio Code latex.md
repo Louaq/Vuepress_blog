@@ -6,6 +6,7 @@ tags:
 createTime: 2025/01/07 15:12:49
 permalink: /article/8szf7f9j/
 excerpt: 'LaTeX 作为一种强大的排版系统，对于理工科，特别是公式比较多的数学专业（秃头专业），其重要性自不必多说，不在本文探讨范围之内'
+cover: https://vip.123pan.cn/1816472581/ymjew503t0n000d6xuk03nearxw9s1l5DIYPAqF0DqJ1DGxwDIiw.png
 ---
 
 

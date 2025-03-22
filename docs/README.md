@@ -5,12 +5,12 @@ config:
   - type: banner
     full: true
     background: tint-plate
-    banner: https://vip.123pan.cn/1816472581/yk6baz03t0n000d6xujp03olsly1lyclDIYPAqF0DqJ1DGxwDIiw.png
+    banner: https://vip.123pan.cn/1816472581/ymjew503t0n000d6xuk03nearxw9s1l5DIYPAqF0DqJ1DGxwDIiw.png
     bannerMask: 0.1
     backgroundAttachment: 'local'
     hero:
       name: Louaq
-      tagline: a simple stdio
+      tagline: a simple studio
       text: Stay foolish, Stay hungry
       actions:
         -

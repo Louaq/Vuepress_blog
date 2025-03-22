@@ -3,6 +3,7 @@ title: 可变形大核注意力
 createTime: 2024/06/08 15:12:49
 permalink: /article/3cw8b7e9/
 excerpt: 'Deformable-LKA结合了大卷积核的广阔感受野和可变形卷积的灵活性，有效地处理复杂的视觉信息。这一机制通过动态调整卷积核的形状和大小来适应不同的图像特征，提高了模型对目标形状和尺寸的适应性。'
+cover: https://vip.123pan.cn/1816472581/yk6baz03t0l000d6xujntz00jd19juxaDIYPAqF0DqJ1DGxwDIiw.png
 ---
 
 

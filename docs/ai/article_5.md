@@ -6,7 +6,9 @@ excerpt: '混合注意力变换器（HAT）的设计理念是通过融合通道�
 tags:
   - HAT
   - YOLOv8
+cover: https://vip.123pan.cn/1816472581/ymjew503t0m000d6xujzns6uieghjqwmDIYPAqF0DqJ1DGxwDIiw.jpg
 ---
+
  # 变换器HAT
 
 一、本文介绍

@@ -3,6 +3,7 @@ pageLayout: friends
 title: 友情链接
 description: 我的朋友们
 createTime: 2024/10/15 15:12:49
+cover: https://vip.123pan.cn/1816472581/yk6baz03t0l000d6xujntytwrzyj0on6DIYPAqF0DqJ1DGxwDIiw.jpg
 tags:
   - friends
   - links

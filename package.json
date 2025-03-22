@@ -17,27 +17,28 @@
     "vp-update": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.19",
-    "@vuepress/plugin-docsearch": "2.0.0-rc.76",
-    "@vuepress/plugin-markdown-image": "2.0.0-rc.74",
-    "@vuepress/plugin-markdown-math": "2.0.0-rc.76",
-    "@vuepress/plugin-notice": "2.0.0-rc.74",
-    "@vuepress/plugin-reading-time": "2.0.0-rc.74",
-    "@vuepress/plugin-watermark": "2.0.0-rc.74",
-    "chart.js": "^4.4.7",
+    "@vuepress/bundler-vite": "2.0.0-rc.20",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.85",
+    "@vuepress/plugin-markdown-image": "2.0.0-rc.85",
+    "@vuepress/plugin-markdown-include": "2.0.0-rc.57",
+    "@vuepress/plugin-markdown-math": "2.0.0-rc.85",
+    "@vuepress/plugin-notice": "2.0.0-rc.85",
+    "@vuepress/plugin-reading-time": "2.0.0-rc.85",
+    "@vuepress/plugin-watermark": "2.0.0-rc.85",
+    "chart.js": "^4.4.8",
     "echarts": "^5.6.0",
     "flowchart.ts": "^3.0.1",
     "http-server": "^14.1.1",
-    "mermaid": "^11.4.1",
-    "sass-embedded": "^1.83.4",
-    "typescript": "^5.7.3",
+    "mermaid": "^11.5.0",
+    "sass-embedded": "^1.86.0",
+    "typescript": "^5.8.2",
     "vue": "^3.5.13",
-    "vuepress": "2.0.0-rc.19",
-    "vuepress-theme-plume": "1.0.0-rc.130"
+    "vuepress": "2.0.0-rc.20",
+    "vuepress-theme-plume": "1.0.0-rc.136"
   },
   "dependencies": {
     "rspress-plugin-katex": "^0.3.0",
     "rspress-plugin-reading-time": "^0.3.0",
-    "watermark-js-plus": "^1.5.7"
+    "watermark-js-plus": "^1.5.8"
   }
 }

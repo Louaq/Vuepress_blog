@@ -3,6 +3,7 @@ title: 聚焦线性注意力
 createTime: 2024/06/08 15:12:49
 permalink: /article/7qi9b2wu/
 excerpt: 'Focused Linear Attention（聚焦线性注意力）是一种用于视觉Transformer模型的注意力机制(但是其也可以用在我们的YOLO系列当中从而提高检测精度)，旨在提高效率和表现力'
+cover: https://vip.123pan.cn/1816472581/yk6baz03t0m000d6xujocxe9zhglhvdaDIYPAqF0DqJ1DGxwDIiw.png
 ---
  # **聚焦线性注意力**
 

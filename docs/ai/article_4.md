@@ -3,6 +3,7 @@ title: 大核注意力机制
 createTime: 2024/06/08 15:12:49
 permalink: /article/l7o183q2/
 excerpt: '在这篇文章中，我们将讲解如何将LSKAttention大核注意力机制应用于YOLOv8，以实现显著的性能提升。'
+cover: https://vip.123pan.cn/1816472581/ymjew503t0l000d6xujz7kamkav50qu6DIYPAqF0DqJ1DGxwDIiw.png
 ---
 # **大核注意力机制**
 

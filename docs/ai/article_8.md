@@ -3,6 +3,7 @@ title: DAT
 createTime: 2024/06/08 15:12:49
 permalink: /article/2p0fwpcg/
 excerpt: '引入可变形注意力机制和动态采样点'
+cover: https://vip.123pan.cn/1816472581/yk6baz03t0m000d6xujocyxuegif80y9DIYPAqF0DqJ1DGxwDIiw.png
 ---
  # DAT
 
